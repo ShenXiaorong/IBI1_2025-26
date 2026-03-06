@@ -1,6 +1,7 @@
-Hello, my name is Rob.
-I like drinking tea and eating chocolate biscuits.
-I am enjoying teaching IBI1 in person again 
-I am happy that I can push my repo from Visual Studio Code to GitHub
+Hello, my name is Xiaorong Shen, an IBI1 student at ZJE.
+I can play the piano and dance Chinese dance since childhood.
+I like watching movies and traveling. One of my favourite movies is the Grand Budapest Hotel.
+I like playing games on ps5 as well, and I highly recommend god of war series of games.
+I am happy that I can push my repo from cygwin to GitHub!
 
-Hi, Rob, nice to meet you!
+
