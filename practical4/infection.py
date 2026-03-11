@@ -7,3 +7,4 @@ while infected_people<total_people: # the loop will continue until all the peopl
     print("the total number of infected people is " + str(infected_people) + " after day" + str(day) ) # print the total number of infected people after each day.
     infected_people=infected_people*(1+infection_rate)
 print("It needs " + str(day) + " days for all the people to be infected.") # print the total number of days needed for all the people to be infected.
+
