@@ -24,10 +24,11 @@ while Cr<=0 or Cr>=100:                                                         
     Cr=float(input("please enter the creatine concentration in blood in µmol/l:"))             # ask the user to enter the creatine concentration again until a valid creatine concentration is entered.
 
 if gender=="male":                                                                             # if the person is male, calculate the creatine clearance using the formula for males.
-        CrCl=(140-age)*weight/(72*Cr)                                                          # calculate the creatine clearance in µmol/l.elif gender=="female": # if the person is female, calculate the creatine clearance using the formula for females.
+        CrCl=(140-age)*weight/(72*Cr)                                                          # calculate the creatine clearance in µmol/l.
 elif gender=="female":                                                                         # if the person is female, calculate the creatine clearance using the formula for females.
         CrCl=(140-age)*weight/(72*Cr)*0.85                                                     # calculate the creatine clearance in µmol/l.
 print("The creatine clearance is " + str(CrCl) + "µmol/l.")                                    # print the creatine clearance in µmol/l.
     
+
 
 
