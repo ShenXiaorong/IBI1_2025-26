@@ -1,3 +1,7 @@
+# First, let the user enter the age, weight, gender, and creatine concentration.
+# Second, check for valid input and prints error messages if the input is invalid.
+# Third, calculate the creatine clearance using the appropriate formula based on the gender of the person.
+# Finally, print the creatine clearance in µmol/l.
 age=int(input("please enter your age in years:")) # store the age of the person in years.
 while age<=0 or age>=100: # if the age is less than or equal to 0 or greater than or equal to 100, print an error message.
     print("Error: age must be greater than 0 and less than 100.")
@@ -20,3 +24,4 @@ elif gender=="female": # if the person is female, calculate the creatine clearan
         CrCl=(140-age)*weight/(72*Cr)*0.85 # calculate the creatine clearance in µmol/l.
 print("The creatine clearance is " + str(CrCl) + "µmol/l.") # print the creatine clearance in µmol/l.
     
+
