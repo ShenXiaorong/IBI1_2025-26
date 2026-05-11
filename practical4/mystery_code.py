@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: The code simulates a process where it draws random numbers between 1 and 10, adds them up, and keeps track of the total until it has drawn 10 numbers. Finally, it prints the total sum of the drawn numbers.
+# Answer: The code simulates a process where it draws random numbers between 1 and 10, adds them up, and keeps track of the total until it has drawn 11 numbers. Finally, it prints the total sum of the drawn numbers.
 
 # Import libraries
 # randint allows drawing a random number,
