@@ -1,0 +1,9 @@
+Dear professor,
+
+I'm writing to share my responses to the recent feedback we recevied for previous IBI practicals.
+
+Firstly, For the Week 4 mystery code task, I revised the file mystery_code.py based on the teacher’s feedback. I corrected the pseudocode explanation at the top so that it now states more accurately that the code is intended to generate 11 random numbers between 1 and 10 and calculate their sum, instead of 10. 
+Secondly, For the Week 5 gene expression task, I revised the file gene_expression.py by adding an x-axis label to the bar chart, as suggested in the feedback.
+
+Best wishes,
+Shen Xiaorong
