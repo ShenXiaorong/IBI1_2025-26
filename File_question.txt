@@ -1,0 +1,8 @@
+Question: How has the relationship between the DALYs in China and the UK changed over time? Are they becoming more similar or less similar?
+
+Code starts at line: 43
+
+Result discussion: 
+The DALYs in China and the UK both declined over time. China remained higher in every year, but the gap gradually narrowed, so the two countries became more similar over time.
+This was partly what I expected. I expected that both countries might show a long-term decrease in DALYs, and that the difference between them could become smaller over time.
+One possible reason is that both China and the UK may have experienced long-term improvements in health and disease prevention, which would reduce DALYs over time and China started from a higher DALY level, so it had more room to decline over time, while the UK was already lower. This would make the gap gradually smaller.
