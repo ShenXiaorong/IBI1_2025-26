@@ -1,5 +1,7 @@
-This is an example file for reflection in IBI1_2025-26.
+In this practical, I learned more clearly how a simple mathematical idea can be turned into a simulation in Python. At first, the basic SIR model was not too difficult to follow, because the logic of susceptible, infected, and recovered groups was quite clear. It was also interesting to see that a few lines of code could produce the typical epidemic curves.
 
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
+The part I found more challenging was understanding the stochastic part of the model. At first, I did not fully understand why infection and recovery had to be random rather than fixed, but after running the code several times and seeing that the curves changed each time, I understood better what a probabilistic model means. I also found the vaccination task interesting, because it showed very clearly how increasing vaccination changes the outbreak size and helps explain the idea of herd immunity.
 
-I am going to edit this file to show changes
+The most difficult part for me was probably the 2D spread model, because it required thinking about neighbours, positions in an array, and updating the grid step by step. However, it was also the most visually interesting part of the practical, because I could actually see the infection spreading across space rather than only looking at curves.
+
+The most important thing I learned from this practical is that coding a biological model is not only about making the code run. It is also about understanding what each variable and probability represents, and how small changes in assumptions can change the results.
